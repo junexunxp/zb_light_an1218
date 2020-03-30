@@ -1,0 +1,33 @@
+Release Name: JN-AN-1218 ZigBee 3.0 Light Bulbs for JN516x/7x
+Release Version: 1008
+
+Locations shown are after application note has been installed into workspace
+
+JN-AN-1218 ZigBee 3.0      Author: NXP
+Light Bulbs                Name: JN-AN-1218 ZigBee 3.0 Light Bulbs 
+for JN516x/7x              for JN516x/7x
+                           Version: 1008
+                           Location: <workspace>/JN-AN-1218-Zigbee-3-0-Light-Bulb
+                           Description: Example ZigBee 3.0 template
+                           applications for JN516x/7x
+                           License: Proprietary. See EULA LA_OPT_Base_License
+                           Format: source code, make files, documentation
+                           
+NFC Libraries              Author: NXP
+(ICODE format)             Name: NFC Libraries (ICODE format)
+                           Version: 1000
+                           Location: <workspace>/JN-AN-1218-Zigbee-3-0-Light-Bulb/NFC
+                           Description: NFC libraries for NCI and NTAG access
+                           in JN51xx Application Notes
+                           License: Proprietary. See EULA LA_OPT_Base_License
+                           Format: libraries, header files
+                           
+NTAG Library               Author: NXP
+(AES format)               Name: NTAG Library (AES format)
+                           Version: t008
+                           Location: <workspace>/JN-AN-1218-Zigbee-3-0-Light-Bulb/NTAG
+                           Description: NTAG library for NTAG access
+                           in JN51xx Application Notes
+                           License: Proprietary. See EULA LA_OPT_Base_License
+                           Format: libraries, header files
+                           
